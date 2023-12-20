@@ -1,10 +1,12 @@
 import React from 'react';
-import PasswordGeneratorApp from './Projects/PasswordGeneratorApp';
+import PasswordGeneratorApp from './Projects/PasswordGenerator/PasswordGeneratorApp';
+import BgColorChange from './Projects/bgColorChange/BgColorChange';
 
 function App() {
   return (
     <>
-      <PasswordGeneratorApp />
+      {/* <PasswordGeneratorApp /> */}
+      <BgColorChange />
     </>
   );
 }
