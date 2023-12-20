@@ -1,7 +1,6 @@
 import React from 'react';
-import PasswordGeneratorApp from './Projects/PasswordGenerator/PasswordGeneratorApp';
 import BgColorChange from './Projects/bgColorChange/BgColorChange';
-
+import PasswordGeneratorApp from './Projects/PasswordGenerator/PasswordGeneratorApp';
 function App() {
   return (
     <>
